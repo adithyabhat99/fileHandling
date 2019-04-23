@@ -20,7 +20,7 @@ After compiling, run as ./File
 ```g++ file.cpp -lboost_system -lboost_filesystem  -lm -lpthread -lX11 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o File```
 
 
-## Recommended to use aptitude instead of apt to handle dependencies
+>Recommended to use aptitude instead of apt to handle dependencies
 ```sudo apt install aptitude```
 
 ```sudo aptitude install libboost-dev```
