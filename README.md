@@ -32,9 +32,9 @@ After compiling, run as ./File
 
 ```sudo aptitude install  libboost-filesystem-dev```
 
-# Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
+### Install all other dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
 
-```sudo aptitude install libsfml-dev```
+
 
 > change line 50 "Status" to "Status1"
 
