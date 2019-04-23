@@ -25,7 +25,9 @@ After compiling, run as ./File
 ```sudo apt install aptitude```
 
 ```sudo aptitude install libboost-dev```
+
 ```sudo aptitude install libboost-thread-dev```
+
 ```sudo aptitude install  libboost-filesystem-dev```
 
 Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
@@ -33,7 +35,9 @@ Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/808
 ```sudo aptitude install libsfml-dev```
 
 ## change line 50 "Status" to "Status1"
+
 ```sudo subl /usr/include/SFML/Audio/SoundSource.hpp```
 
 ### Put all the files in files direcctory
+
 ```mkdir files```
