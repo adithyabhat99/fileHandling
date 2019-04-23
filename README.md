@@ -21,6 +21,7 @@ After compiling, run as ./File
 
 
 >Recommended to use aptitude instead of apt to handle dependencies
+
 ```sudo apt install aptitude```
 
 ```sudo aptitude install libboost-dev```
