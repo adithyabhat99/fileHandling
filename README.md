@@ -1,8 +1,23 @@
-#Handling different types of files with C++
+# fileHandling
+fileHandling is a C++ application to handle different types of files
 
+# Which formats are supported curently?
+- jpeg,png
+- flac,wav,ogg
+- csv
+- all text files like txt,md,cpp etc
+
+# Requirements
+- g++ 7.3.0
+- Boost
+- CImg 
+- SFML
+
+# Documentation
+After compiling, run as ./File
 
 ## Compilation(g++ 7.3.0)
-```g++ file.cpp -lboost_system -lboost_filesystem  -lm -lpthread -lX11 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o Output```
+```g++ file.cpp -lboost_system -lboost_filesystem  -lm -lpthread -lX11 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o File```
 
 
 ## Recommended to use aptitude instead of apt to handle dependencies
