@@ -1,4 +1,4 @@
-# Compilation(g++ 11)
+# Compilation(g++ 7.3.0)
 >g++ file.cpp -lboost_system -lboost_filesystem  -lm -lpthread -lX11 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o Output
 
 
