@@ -9,7 +9,7 @@
 >sudo aptitude install libboost-thread-dev
 >sudo aptitude install  libboost-filesystem-dev
 
-Install all dependencies from here[install](https://gist.github.com/NoobsArePeople2/8086528)
+Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
 
 >sudo aptitude install libsfml-dev
 
