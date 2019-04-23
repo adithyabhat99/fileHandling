@@ -20,6 +20,8 @@ After compiling, run as ./File
 ```g++ file.cpp -lboost_system -lboost_filesystem  -lm -lpthread -lX11 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -o File```
 
 
+## Installing dependencies
+
 >Recommended to use aptitude instead of apt to handle dependencies
 
 ```sudo apt install aptitude```
@@ -30,14 +32,14 @@ After compiling, run as ./File
 
 ```sudo aptitude install  libboost-filesystem-dev```
 
-Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
+# Install all dependencies from [here](https://gist.github.com/NoobsArePeople2/8086528)
 
 ```sudo aptitude install libsfml-dev```
 
-## change line 50 "Status" to "Status1"
+> change line 50 "Status" to "Status1"
 
 ```sudo subl /usr/include/SFML/Audio/SoundSource.hpp```
 
-### Put all the files in files direcctory
+### Files used must be in "files" directory
 
 ```mkdir files```
